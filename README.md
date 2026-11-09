@@ -50,9 +50,6 @@ Throttle PWM -> Input Capture -> Rate Limiter -> Speed PI + Feedforward -> Duty
 3. Run. The scopes show throttle, reference rpm, duty, speed and phase A current.
 4. The load subsystem applies a torque step. Edit its Step block to try 0.5 N·m or 1.5 N·m.
 
-## Results
-
-Add screenshots here (speed vs reference, duty, phase current, load step).
 
 ## Roadmap
 
